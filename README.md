@@ -1,5 +1,4 @@
 # Motorica Gesture Classification Task
-Kaggle competition: classifying hand gestures with optomyographic input.
 
 Соревнование Kaggle: задача классификации непрерывных команд от пользователя на основе данных, полученных от оптомиографических датчиков.
 
@@ -16,5 +15,7 @@ Kaggle competition: classifying hand gestures with optomyographic input.
 - сгиб/разгиб жеста "пистолет" (средний, безымянный и мизинец);
 
 Задача: построение классификационной модели, которая по показаниям от датчиков будет определять жест, выполненный пользователем протеза во время записи данных, что отражено в значении целевой переменной.
+
+Kaggle competition: classifying hand gestures with optomyographic input.
 
 
